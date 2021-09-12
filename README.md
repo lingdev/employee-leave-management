@@ -7,17 +7,26 @@ Employee Management system is a web application that enables users to create,sto
 Technology used :
 
 REACT JS
+
 NODE JS
+
 EXPRESS
+
 SAILS
+
 MySQL
 
 
-Frontend 
+Frontend :
+
 step 1 : npm install
+
 step 2: npm start
 
-backend
+
+backend:
+
 step 1: npm install sails -g
+
 step 2: sails l
 
